@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /organizer
+Disallow: /settings
+Disallow: /account
+Disallow: /tickets
+Disallow: /saved
+Disallow: /plans/
+
+Sitemap: https://eventflow-lausanne.waffleslikecoding.chatgpt.site/sitemap.xml
